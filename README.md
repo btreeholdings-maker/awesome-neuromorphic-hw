@@ -5,6 +5,7 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
 - [Survey Papers](#Survey_Papers)
   
 - [Papers](#Papers)
+  - [2026](#2026)
   - [2023](#2023) 
   - [2022](#2022)
   - [2021](#2021)
@@ -25,6 +26,10 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
 - [[IEEE-JETCAS](https://arxiv.org/abs/2306.15749)] To Spike or Not To Spike: A Digital Hardware Perspective on Deep Learning Acceleration, **2023**.
 - [[IEEE-CICC](https://arxiv.org/abs/2203.07006)] Spiking Neural Network Integrated Circuits: A Review of Trends and Future Directions, **2022**.  
 ## Papers
+
+### 2026
+
+- [[Zenodo](https://doi.org/10.5281/zenodo.15223163)] The Universal Constraint Engine: Emergent Neuromorphic Behavior from Declarative Constraint Rules. S. Kinney, Bee Tree Holdings LLC, 2026. FPGA-validated (Lattice iCE40 HX8K). [__`digital`__][__`fpga`__]
 
 ### 2023
 
