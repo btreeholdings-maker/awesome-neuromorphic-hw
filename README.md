@@ -29,7 +29,7 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
 
 ### 2026
 
-- [[Zenodo](https://doi.org/10.5281/zenodo.15223163)] The Universal Constraint Engine: Emergent Neuromorphic Behavior from Declarative Constraint Rules. S. Kinney, Bee Tree Holdings LLC, 2026. FPGA-validated (Lattice iCE40 HX8K). [__`digital`__][__`fpga`__]
+- [[Zenodo](https://doi.org/10.5281/zenodo.15223163)] The Universal Constraint Engine: Emergent Neuromorphic Behavior from Declarative Constraint Rules. S. Kinney, Bee Tree Holdings LLC, 2026. FPGA-validated (Lattice iCE40 HX8K). [`digital`][`fpga`]
 
 ### 2023
 
